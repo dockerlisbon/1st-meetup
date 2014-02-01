@@ -40,3 +40,9 @@ Here is the list of attendees for this meetup, if you are not added here, please
 
 * David Dias [diasdavid](github.com/diasdavid)
 * Pedro Dias [apocas](https://github.com/apocas)
+* 
+
+### Thank you
+
+Thank you for all of those who will/have joined us! Thank you Docker Inc for sponsoring snacks and drinks!
+![](http://www.docker.io/static/img/homepage-docker-logo.png)
