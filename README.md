@@ -20,11 +20,11 @@ Lisbon is on the Docker map :)
 
 ### Prep to the meetup
 
-
+This is going to be the first meetup of docker-lisbon, we expect to have a new and enthusiastic audience to meet docker, if you are interested, we've cooked a lil tutorial for you to try docker by your own, you can find it [here](http://blog.daviddias.me/get-your-feet-wet-with-docker/)
 
 ### Resources
 
-
+We will upload the resources used after the meetup
 
 ### Take homes
 
