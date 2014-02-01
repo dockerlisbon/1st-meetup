@@ -24,12 +24,17 @@ This is going to be the first meetup of docker-lisbon, we expect to have a new a
 
 ### Resources
 
-We will upload the resources used after the meetup
+We will upload more resources used after the meetup
+- 14 awesome tutorials - http://blog.docker.io/2013/06/14-great-tutorials-on-docker/
 
 ### Take homes
 
-- [] Do the samba dance
-- [] Buy some chocolate
+- [] Do the docker interactive tutorial - http://www.docker.io/gettingstarted/#0
+- [] Do the Dockerfile tutorial - Level 1 - http://www.docker.io/learn/dockerfile/level1/
+- [] Do the Dockerfile tutorial - Level 2 - http://www.docker.io/learn/dockerfile/level2/ 
+- [] Read the documentation till you are able to tell 2 things that made you excited about Docker - http://docs.docker.io/en/latest/
+- [] Get your personal 'Heroku' running with `dokku` - https://medium.com/code-adventures/438bce155dcb
+
 
 
 
@@ -40,7 +45,7 @@ Here is the list of attendees for this meetup, if you are not added here, please
 
 * David Dias [diasdavid](github.com/diasdavid)
 * Pedro Dias [apocas](https://github.com/apocas)
-* 
+* you :)
 
 ### Thank you
 
