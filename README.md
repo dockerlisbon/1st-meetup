@@ -46,6 +46,12 @@ Here is the list of attendees for this meetup, if you are not added here, please
 * David Dias [diasdavid](github.com/diasdavid)
 * Pedro Dias [apocas](https://github.com/apocas)
 * Afonso Oliveira [afonsomota](https://github.com/afonsomota)
+* João Jerónimo	[joaojeronimo](https://github.com/joaojeronimo)
+* Mário Nzualo [marionzualo](https://github.com/marionzualo)
+* Bruno Barreto [NeCkEr](https://github.com/NeCkEr)
+* João Sousa Andrade [joaosa](https://github.com/joaosa)
+* Igor Soarez [Soarez](https://github.com/Soarez)
+
 * you :)
 
 ### Thank you
