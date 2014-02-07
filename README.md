@@ -10,6 +10,14 @@ This meetup will have an introductory format, we will meet each other, exchange 
 Lisbon is on the Docker map :) 
 ![](http://blog.docker.io/wp-content/uploads/2014/01/docker-meetup-groups.png)
 
+### Achievements
+
+In this first meetup:
+
+* 1 bug in boot2docker was found
+* people stayed more than 3 hours hacking on docker (10pm and everyone was still going)
+
+
 ### Agenda
 
  1. What is Docker, how it works and how can you play with it. (15min)
