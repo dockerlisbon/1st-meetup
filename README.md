@@ -45,6 +45,7 @@ Here is the list of attendees for this meetup, if you are not added here, please
 
 * David Dias [diasdavid](github.com/diasdavid)
 * Pedro Dias [apocas](https://github.com/apocas)
+* Afonso Oliveira [afonsomota](https://github.com/afonsomota)
 * you :)
 
 ### Thank you
