@@ -1,6 +1,8 @@
 1st-meetup
 ==========
 
+[![Gitter chat](https://badges.gitter.im/docker-lisbon/1st-meetup.png)](https://gitter.im/docker-lisbon/1st-meetup)
+
 [6 of February 2014 - http://www.meetup.com/Docker-Lisbon/events/162180092/](http://www.meetup.com/Docker-Lisbon/events/162180092/)
 
 Let's meet for the first time! 
