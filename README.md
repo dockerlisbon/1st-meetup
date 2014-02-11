@@ -61,6 +61,7 @@ Here is the list of attendees for this meetup, if you are not added here, please
 * Bruno Barreto [NeCkEr](https://github.com/NeCkEr)
 * João Sousa Andrade [joaosa](https://github.com/joaosa)
 * Igor Soarez [Soarez](https://github.com/Soarez)
+* Francisco Covas [fcovas](https://github.com/fcovas)
 
 * you :)
 
